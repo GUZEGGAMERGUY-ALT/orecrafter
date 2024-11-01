@@ -1,0 +1,48 @@
+{
+  "_fv": 69,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CoalBits"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CoalBits"
+      },
+      {
+        "value": "Blocks.STONE#0"
+      },
+      {
+        "value": "CUSTOM:CoalBits"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CoalBits"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.COAL_ORE"
+    },
+    "name": "coal_ore_recipe",
+    "namespace": "mod"
+  }
+}

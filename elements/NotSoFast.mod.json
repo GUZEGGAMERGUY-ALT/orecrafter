@@ -1,0 +1,25 @@
+{
+  "_fv": 69,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "Not So Fast!",
+    "achievementDescription": "Its Not going to be that easy...",
+    "achievementIcon": {
+      "value": "Blocks.DEEPSLATE_EMERALD_ORE"
+    },
+    "background": "Default",
+    "disableDisplay": true,
+    "showPopup": true,
+    "announceToChat": true,
+    "hideIfNotCompleted": true,
+    "rewardLoot": [],
+    "rewardRecipes": [],
+    "rewardFunction": "No function",
+    "rewardXP": 20,
+    "achievementType": "challenge",
+    "parent": {
+      "value": "story/root"
+    },
+    "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"advancement_trigger\" deletable=\"false\" x=\"152\" y=\"21\"><next><block type=\"item_in_inventory\"><value name=\"amount_l\"><block type=\"math_number\"><field name=\"NUM\">1</field></block></value><value name=\"amount_h\"><block type=\"math_number\"><field name=\"NUM\">64</field></block></value><value name=\"item\"><block type=\"mcitem_all\"><field name=\"value\">CUSTOM:KnockOffDeepslateEmeraldOre</field></block></value></block></next></block></xml>"
+  }
+}

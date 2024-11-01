@@ -1,0 +1,10 @@
+/advancement grant @s everything
+/recipe give @s
+/recipe give @s all
+/advancement grant Dev everything
+/clear
+/give @s orecrafter:lapis_bits
+/give @s orecrafter:lapis_bits 3
+/give @s orecrafter:knock_off_deepslate_emerald_ore
+/gamemode survival
+/give @s orecrafter:knock_off_deepslate_emerald_ore
